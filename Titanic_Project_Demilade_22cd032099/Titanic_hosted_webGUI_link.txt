@@ -8,4 +8,5 @@ Model persistence method used (e.g., Joblib or Pickle): Pickle
 
 Live URL of the hosted application: https://titanic-dif9.onrender.com
 
-GitHub repository link: https://github.com/DMG-01/titanic_
+
+GitHub repository link:https://github.com/abidemi-beep/TITANIC.git
