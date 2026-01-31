@@ -1,0 +1,11 @@
+Name: Abina Oluwademilade
+
+Matric Number: 22CD032099
+
+Machine Learning Algorithm Used: Random Forest Classifier
+
+Model persistence method used (e.g., Joblib or Pickle): Pickle
+
+Live URL of the hosted application: https://titanic-dif9.onrender.com
+
+GitHub repository link: https://github.com/DMG-01/titanic_
